@@ -1,2 +1,2 @@
-# Practice-time-
+# Practice-time
 Знания, применяемые на практике
